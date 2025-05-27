@@ -1,4 +1,4 @@
-module github.com/bool64/go-template
+module github.com/xiaoix/test-self-update
 
 go 1.23
 
